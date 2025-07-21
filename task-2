@@ -1,5 +1,3 @@
-
-
 let a = 10;           // Number
 let b = "Vetri";      // String
 let c = true;         // Boolean
